@@ -2564,9 +2564,7 @@ bot.action('menu_information', async (ctx) => {
 <pre><code class="language-javascript">
 [ INFORMATION | v24.0 G2 ]
 
-  Selamat Hari Raya Idul Adha 1446 H
-  Semoga berkah dan kebahagiaan menyertai kita semua.
-  Taqabbalallahu minna wa minkum.
+lagi update njir
 
 [ PAGE 6/6 ]
 </code></pre>`;
